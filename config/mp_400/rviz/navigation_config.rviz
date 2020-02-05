@@ -130,7 +130,7 @@ Visualization Manager:
       Size (Pixels): 3
       Size (m): 0.0500000007
       Style: Boxes
-      Topic: /laser_1/scan
+      Topic: /lidar_1/scan_filtered
       Unreliable: false
       Use Fixed Frame: true
       Use rainbow: true
