@@ -152,7 +152,7 @@
       <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
     </joint>
     <actuator name="mpo_500_omni_wheel_front_right_motor">
-      <mechanicalReduction>30</mechanicalReduction>
+      <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
   <transmission name="mpo_500_omni_wheel_back_left">
@@ -161,7 +161,7 @@
       <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
     </joint>
     <actuator name="mpo_500_omni_wheel_back_left_motor">
-      <mechanicalReduction>19</mechanicalReduction>
+      <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
   <transmission name="mpo_500_omni_wheel_back_right">
@@ -170,7 +170,7 @@
       <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
     </joint>
     <actuator name="mpo_500_omni_wheel_back_right_motor">
-      <mechanicalReduction>30</mechanicalReduction>
+      <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
 </robot>
